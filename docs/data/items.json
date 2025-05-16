@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "1",
+    "name": "Item 1",
+    "description": "First item description",
+    "price": 10.99
+  },
+  {
+    "_id": "2",
+    "name": "Item 2",
+    "description": "Second item description",
+    "price": 20.49
+  },
+  {
+    "_id": "3",
+    "name": "Item 3",
+    "description": "Third item description",
+    "price": 15.75
+  }
+]
